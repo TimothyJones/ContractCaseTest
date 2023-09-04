@@ -1,5 +1,35 @@
 # Changelog
 
+## 0.6.2 (2023-09-04)
+
+
+### Features
+
+* Add ability for CLI to accept broker configuration as an option ([0565927](https://github.com/TimothyJones/ContractCaseTest/commit/05659279746423b4fb1d2e6fa0df57aa14356c6f))
+* Add documentation package ([f5b1f61](https://github.com/TimothyJones/ContractCaseTest/commit/f5b1f615c8c8b1db60c04a9d3cee4c087cf8d9eb))
+* Allow specification of more options via environment variables ([553a7b1](https://github.com/TimothyJones/ContractCaseTest/commit/553a7b15fbb6ba6069c0bee2c683b57ece942c3c))
+
+
+### Documentation
+
+* Add CLI documentation page ([dc05756](https://github.com/TimothyJones/ContractCaseTest/commit/dc05756aa6e554fb3076b72b86af8c5de845ca6e))
+* Add missing data in relaxing tests and state definition code examples ([be57cab](https://github.com/TimothyJones/ContractCaseTest/commit/be57cab1bc31f86e461e1cf63e7a1883c87b817f))
+* Correct CLI instructions for verification ([a629bd4](https://github.com/TimothyJones/ContractCaseTest/commit/a629bd46cb5f590454ac8382852fff285561b1b6))
+* Correct link to examples ([cc173b6](https://github.com/TimothyJones/ContractCaseTest/commit/cc173b68f9e5ef481bf0e40a3189ef85f66c5dcc))
+* Correct several places where the name still showed as 'Case' ([d188f8f](https://github.com/TimothyJones/ContractCaseTest/commit/d188f8f24d74c0172c1cae85284d4cec365b9af7))
+* Correct typo ([85fc7b4](https://github.com/TimothyJones/ContractCaseTest/commit/85fc7b4ba1eb19efa433e0e6dc9a3562c24b79d4))
+* Correct URL to example ([8fe8982](https://github.com/TimothyJones/ContractCaseTest/commit/8fe89829ba83f3d596c4048e75391b14ff556b46))
+* Remove caveat about it not being the right package, because it is ([66905fb](https://github.com/TimothyJones/ContractCaseTest/commit/66905fbde40b2e955fc1543a638d60c42eaf7358))
+* Update documentation to match new format ([3c78016](https://github.com/TimothyJones/ContractCaseTest/commit/3c780162ae66befede0904a26ff8ffb47975e8b6))
+* Update links on intro page after refactor ([954f59d](https://github.com/TimothyJones/ContractCaseTest/commit/954f59d239af664af137c459f5ce01367063d1a9))
+
+
+### Miscellaneous Chores
+
+* release 0.5.1 ([4ee5bcb](https://github.com/TimothyJones/ContractCaseTest/commit/4ee5bcb37e6dbca84b05f9a769e736fd0600f84e))
+* release 0.6.1 ([d34ee95](https://github.com/TimothyJones/ContractCaseTest/commit/d34ee95ee53765f4184076fde1b32720d5f5db3b))
+* release 0.6.2 ([de6504e](https://github.com/TimothyJones/ContractCaseTest/commit/de6504e8021a17a0b09259efb183cdc83cfe3ca3))
+
 ## [0.0.5](https://github.com/TimothyJones/ContractCaseTest/compare/documentation-v0.0.4...documentation-v0.0.5) (2023-05-19)
 
 

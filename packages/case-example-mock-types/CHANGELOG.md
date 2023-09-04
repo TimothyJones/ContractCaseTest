@@ -1,5 +1,28 @@
 # Changelog
 
+## 0.6.2 (2023-09-04)
+
+
+### Features
+
+* Add Case Example Mock Types package ([7f79879](https://github.com/TimothyJones/ContractCaseTest/commit/7f7987951174de9d57f68106e29c7104745a6296))
+
+
+### Miscellaneous Chores
+
+* release 0.5.1 ([4ee5bcb](https://github.com/TimothyJones/ContractCaseTest/commit/4ee5bcb37e6dbca84b05f9a769e736fd0600f84e))
+* release 0.6.1 ([d34ee95](https://github.com/TimothyJones/ContractCaseTest/commit/d34ee95ee53765f4184076fde1b32720d5f5db3b))
+* release 0.6.2 ([de6504e](https://github.com/TimothyJones/ContractCaseTest/commit/de6504e8021a17a0b09259efb183cdc83cfe3ca3))
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * dependencies
+    * @contract-case/case-entities-internal bumped from 0.12.1 to 0.6.2
+  * devDependencies
+    * @contract-case/test-equivalence-matchers bumped from 0.12.1 to 0.6.2
+
 ## [0.12.1](https://github.com/TimothyJones/ContractCaseTest/compare/@contract-case/case-example-mock-types-v0.12.0...@contract-case/case-example-mock-types-v0.12.1) (2023-05-19)
 
 
