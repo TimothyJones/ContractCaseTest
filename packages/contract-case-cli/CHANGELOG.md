@@ -7,6 +7,32 @@
     * @contract-case/case-boundary bumped from 0.6.0 to 0.6.1
     * @contract-case/case-core bumped from 0.12.0 to 0.12.1
 
+## 0.6.2 (2023-09-04)
+
+
+### Features
+
+* Add ability for CLI to accept broker configuration as an option ([0565927](https://github.com/TimothyJones/ContractCaseTest/commit/05659279746423b4fb1d2e6fa0df57aa14356c6f))
+* Add cli package ([600c429](https://github.com/TimothyJones/ContractCaseTest/commit/600c4298089cfc8bc34a50cd4bf3cacf920b75ad))
+* Export the CLI so it can be reused by dependants ([4e3799d](https://github.com/TimothyJones/ContractCaseTest/commit/4e3799de65a97f400874720c3101b7e44e3f8480))
+* Pass version info through to logger ([a6dc4f7](https://github.com/TimothyJones/ContractCaseTest/commit/a6dc4f73a176552d779eabba9273e78f0979b5af))
+* Substantially improve options parsing for ContractCase CLI ([30085ae](https://github.com/TimothyJones/ContractCaseTest/commit/30085aeb878b84885578f3a5341be1d091d5b984))
+
+
+### Miscellaneous Chores
+
+* release 0.5.1 ([4ee5bcb](https://github.com/TimothyJones/ContractCaseTest/commit/4ee5bcb37e6dbca84b05f9a769e736fd0600f84e))
+* release 0.6.1 ([d34ee95](https://github.com/TimothyJones/ContractCaseTest/commit/d34ee95ee53765f4184076fde1b32720d5f5db3b))
+* release 0.6.2 ([de6504e](https://github.com/TimothyJones/ContractCaseTest/commit/de6504e8021a17a0b09259efb183cdc83cfe3ca3))
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * dependencies
+    * @contract-case/case-boundary bumped from 0.6.1 to 0.6.2
+    * @contract-case/case-core bumped from 0.12.1 to 0.6.2
+
 ## [0.1.1](https://github.com/case-contract-testing/contract-case/compare/@contract-case/cli-v0.1.0...@contract-case/cli-v0.1.1) (2023-05-17)
 
 

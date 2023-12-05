@@ -9,6 +9,41 @@
     * @contract-case/case-example-mock-types bumped from 0.12.0 to 0.12.1
     * @contract-case/cli bumped from 0.1.1 to 0.1.2
 
+## 0.6.2 (2023-09-04)
+
+
+### Features
+
+* Add ability to verify contracts to jest boundary ([9d5c8a9](https://github.com/TimothyJones/ContractCaseTest/commit/9d5c8a9bdf45d4c17e56aa2a3fa0bcff47426e41))
+* Add ContractCase binary ([062c7b7](https://github.com/TimothyJones/ContractCaseTest/commit/062c7b7bbdd7459384fcdfcfea59cb1cdc8b07d0))
+* Add crash messages when the core fails ([8147c9d](https://github.com/TimothyJones/ContractCaseTest/commit/8147c9d59183d31c212fbba31f468f2b0b2c4a58))
+* Add separate package for jest + javascript DSL ([e175bf7](https://github.com/TimothyJones/ContractCaseTest/commit/e175bf7befd9c6a9e1be96f490845289ca248aaf))
+* Handle BrokerErrors as if they were ConfigurationErrors ([0e17b3e](https://github.com/TimothyJones/ContractCaseTest/commit/0e17b3e508eff23294dba0eee38eec3274d7073a))
+* Map errors appropriately at the boundary ([c9df9ff](https://github.com/TimothyJones/ContractCaseTest/commit/c9df9ffa16aa68183b8410b25c37e6cc03f36182))
+* Pass version info through to logger ([a6dc4f7](https://github.com/TimothyJones/ContractCaseTest/commit/a6dc4f73a176552d779eabba9273e78f0979b5af))
+
+
+### Bug Fixes
+
+* Correct package description ([7c030b8](https://github.com/TimothyJones/ContractCaseTest/commit/7c030b8708c390a84ff208c8fcf342ab629d29d5))
+
+
+### Miscellaneous Chores
+
+* release 0.5.1 ([4ee5bcb](https://github.com/TimothyJones/ContractCaseTest/commit/4ee5bcb37e6dbca84b05f9a769e736fd0600f84e))
+* release 0.6.1 ([d34ee95](https://github.com/TimothyJones/ContractCaseTest/commit/d34ee95ee53765f4184076fde1b32720d5f5db3b))
+* release 0.6.2 ([de6504e](https://github.com/TimothyJones/ContractCaseTest/commit/de6504e8021a17a0b09259efb183cdc83cfe3ca3))
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * dependencies
+    * @contract-case/case-boundary bumped from 0.6.1 to 0.6.2
+    * @contract-case/case-entities-internal bumped from 0.12.1 to 0.6.2
+    * @contract-case/case-example-mock-types bumped from 0.12.1 to 0.6.2
+    * @contract-case/cli bumped from 0.1.2 to 0.6.2
+
 ## [0.9.5](https://github.com/case-contract-testing/contract-case/compare/@contract-case/contract-case-jest-v0.9.4...@contract-case/contract-case-jest-v0.9.5) (2023-05-17)
 
 
